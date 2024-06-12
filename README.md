@@ -62,11 +62,6 @@ Make sure you have a modern web browser installed.
 - [Figma Dev Mode Link](Figma Dev Mode Link)
 - [Video Explanation](Video Link)
 
-## Additional Features
-
-- **Optional**: Dark mode toggle.
-- **Optional**: Animations using CSS or libraries like Framer Motion.
-- **Optional**: Tailwind CSS for styling.
 
 ## Deployment
 
